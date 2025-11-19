@@ -154,6 +154,3 @@ Create a mobile-view dashboard version
 ## 🙌 Conclusion
 The Blinkit Sales Dashboard effectively highlights business performance and identifies improvement opportunities in outlet strategy, item mix, and customer experience.
 It provides a powerful visualization tool for stakeholders to track performance and make informed business decisions.
-
-The Blinkit Sales Dashboard effectively highlights business performance and identifies improvement opportunities in outlet strategy, item mix, and customer experience.
-It provides a powerful visualization tool for stakeholders to track performance and make informed business decisions.
